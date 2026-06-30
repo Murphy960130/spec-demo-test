@@ -14,6 +14,6 @@
 
 ## 3. 重构与收尾
 
-- [ ] 3.1 审视 `add` 实现是否为纯函数、无副作用、可读（必要时重构，保持测试绿）
-- [ ] 3.2 再次运行 `npm test` 确认通过
-- [ ] 3.3 `git add . && git commit -m "feat: add calculator with tests"`
+- [x] 3.1 审视 `add` 实现是否为纯函数、无副作用、可读（必要时重构，保持测试绿）
+- [x] 3.2 再次运行 `npm test` 确认通过
+- [x] 3.3 `git add . && git commit -m "feat: add calculator with tests"`
