@@ -16,6 +16,6 @@
 
 ## 3. 重构与归档准备
 
-- [ ] 3.1 审视 `add` 与 `isNumericString`：纯函数？可读？是否过度抽象？保持测试绿前提下重构（如无必要不动）
-- [ ] 3.2 复跑 `npm test` 确认仍全绿
-- [ ] 3.3 `git add . && git commit -m "feat!: support string params in add with same-type constraint"`
+- [x] 3.1 审视 `add` 与 `isNumericString`：纯函数？可读？是否过度抽象？保持测试绿前提下重构（如无必要不动）
+- [x] 3.2 复跑 `npm test` 确认仍全绿
+- [x] 3.3 `git add . && git commit -m "feat!: support string params in add with same-type constraint"`
